@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/coyote/static/css/main.ac41bd3e.css",
+    "main.js": "/coyote/static/js/main.6637b781.js",
+    "static/js/453.2ff9a481.chunk.js": "/coyote/static/js/453.2ff9a481.chunk.js",
+    "static/media/espanol.wav": "/coyote/static/media/espanol.add6715bcffb60360b25.wav",
+    "static/media/logo.png": "/coyote/static/media/logo.f8daa0f85e25f0f1587f.png",
+    "static/media/sun woods.jpg": "/coyote/static/media/sun woods.5cb04efa979a572b4741.jpg",
+    "index.html": "/coyote/index.html",
+    "main.ac41bd3e.css.map": "/coyote/static/css/main.ac41bd3e.css.map",
+    "main.6637b781.js.map": "/coyote/static/js/main.6637b781.js.map",
+    "453.2ff9a481.chunk.js.map": "/coyote/static/js/453.2ff9a481.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac41bd3e.css",
+    "static/js/main.6637b781.js"
+  ]
+}
