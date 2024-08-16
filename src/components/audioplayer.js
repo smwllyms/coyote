@@ -11,10 +11,11 @@ const audioPlayerStyle = {
     width:"100%",
     height:"100%",
     background: "rgba(0,0,0,0)",
-    borderRadius: "5px",
     padding:"0px",
     margin:"0px",
-    filter:"invert()"
+    borderRadius: "25px",
+    background: "black"
+    // filter:"invert()"
 }
 
 export default function AudioPlayer(props) {
