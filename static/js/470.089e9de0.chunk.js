@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoyote=self.webpackChunkcoyote||[]).push([[470],{470:(e,c,s)=>{e.exports=s.p+"static/media/pegboard style.59284c413fb652b1c32e.mp3"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoyote=self.webpackChunkcoyote||[]).push([[655],{655:(e,s,a)=>{e.exports=a.p+"static/media/espanol.add6715bcffb60360b25.wav"}}]);

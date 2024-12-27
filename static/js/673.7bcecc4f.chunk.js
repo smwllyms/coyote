@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoyote=self.webpackChunkcoyote||[]).push([[673],{673:(e,a,s)=>{e.exports=s.p+"static/media/downward.5b1894a28b570ae3422d.mp3"}}]);

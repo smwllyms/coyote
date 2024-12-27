@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoyote=self.webpackChunkcoyote||[]).push([[948],{948:(e,c,t)=>{e.exports=t.p+"static/media/throwback.1dc0bc0544728de408f7.mp3"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoyote=self.webpackChunkcoyote||[]).push([[230],{230:(e,c,a)=>{e.exports=a.p+"static/media/brand new day.2523edca0b334c194b6f.mp3"}}]);

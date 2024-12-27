@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoyote=self.webpackChunkcoyote||[]).push([[922],{922:(e,c,o)=>{e.exports=o.p+"static/media/feelin for you.cda3e4761a01663b063c.mp3"}}]);

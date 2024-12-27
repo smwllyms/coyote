@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoyote=self.webpackChunkcoyote||[]).push([[671],{671:(e,o,s)=>{e.exports=s.p+"static/media/piano house dont stop.ea7e058d5564c6ee9e05.mp3"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoyote=self.webpackChunkcoyote||[]).push([[340],{340:(e,c,s)=>{e.exports=s.p+"static/media/new age.35cfc11bf0c5d595d06d.mp3"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoyote=self.webpackChunkcoyote||[]).push([[680],{680:(e,s,t)=>{e.exports=t.p+"static/media/righteous bass.354504b039f9b291bc1e.mp3"}}]);

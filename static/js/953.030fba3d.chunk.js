@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoyote=self.webpackChunkcoyote||[]).push([[953],{953:(e,a,s)=>{e.exports=s.p+"static/media/taiga ish2.e6e5a7dcd7ad7a410e59.mp3"}}]);

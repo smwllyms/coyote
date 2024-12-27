@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoyote=self.webpackChunkcoyote||[]).push([[64],{64:(e,c,t)=>{e.exports=t.p+"static/media/picture perfect.9f4c7bd866dad5715c5d.mp3"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoyote=self.webpackChunkcoyote||[]).push([[721],{721:(e,c,s)=>{e.exports=s.p+"static/media/magic_2.4cfefdb08bb66a384b10.mp3"}}]);
